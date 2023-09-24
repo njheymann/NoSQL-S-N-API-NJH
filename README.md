@@ -30,5 +30,19 @@ WHEN I check that data has been deleted using GET routes
 THEN the data I deleted will not show up
 
 ## Screenshots  
-
+User information on GET ROUTE  
 ![Screenshot 2023-09-24 144101](https://github.com/njheymann/NoSQL-S-N-API-NJH/assets/125000756/d2272e0e-fbf5-4352-bd87-cec6b1da3d54)  
+
+Thoughts and Reactions on GET ROUTE  
+
+![Screenshot 2023-09-24 145754](https://github.com/njheymann/NoSQL-S-N-API-NJH/assets/125000756/e86b094c-1ac3-4aac-8c93-89ea2ac8bc6a)
+
+## Links 
+
+WALKTHROUGH VIDEOS  
+
+USER/FRIENDS FUNCTIONS: https://drive.google.com/file/d/1lwL849YHwZLiYPFQgm9DXB2zOuijhmsl/view  
+
+THOUGHT/REACTION FUNCTIONS: https://drive.google.com/file/d/1RkkGZOrn-D80e2s8AMRlFcrbGFnSxmOS/view  
+
+GITHUB REPOSITORY: https://github.com/njheymann/NoSQL-S-N-API-NJH  
