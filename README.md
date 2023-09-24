@@ -28,3 +28,7 @@ WHEN I follow the DELETE routes instructions
 THEN I will be able to delete thoughts by ID, delete reactions, delete users by ID and delete friends  
 WHEN I check that data has been deleted using GET routes  
 THEN the data I deleted will not show up
+
+## Screenshots  
+
+![Screenshot 2023-09-24 144101](https://github.com/njheymann/NoSQL-S-N-API-NJH/assets/125000756/d2272e0e-fbf5-4352-bd87-cec6b1da3d54)  
