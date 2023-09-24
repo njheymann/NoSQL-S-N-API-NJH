@@ -1,0 +1,29 @@
+{
+  "name": "nosql-s-n-api-njh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "node utils/seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njheymann/NoSQL-S-N-API-NJH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njheymann/NoSQL-S-N-API-NJH/issues"
+  },
+  "homepage": "https://github.com/njheymann/NoSQL-S-N-API-NJH#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
